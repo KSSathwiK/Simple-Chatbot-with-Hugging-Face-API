@@ -1,6 +1,6 @@
 # Simple Chatbot with Hugging Face API
 
-This project implements a simple chatbot using Streamlit and the Hugging Face API. The chatbot allows users to send messages and receive responses in real-time.
+This project implements a simple chatbot using Streamlit and the Hugging Face API. The chatbot allows users to send messages and receive responses.
 
 ## Features
 
