@@ -2,19 +2,16 @@
 
 This project implements a simple chatbot using Streamlit and the Hugging Face API. The chatbot allows users to send messages and receive responses.
 
+## MODEL USED
+
+microsoft/Phi-3-mini-4k-instruct
+
 ## Features
 
 - Interactive chat interface
 - Uses Hugging Face's Inference API to generate responses
 - Maintains chat history using session state
 
-## Requirements
-
-Make sure to install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Environment Variables
 
